@@ -6,3 +6,4 @@ jupyter-client
 jupyter-core
 matplotlib
 bottleneck
+pyarrow
