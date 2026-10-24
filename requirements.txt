@@ -7,3 +7,5 @@ jupyter-core
 matplotlib
 bottleneck
 pyarrow
+seaborn
+streamlit==1.49.1
