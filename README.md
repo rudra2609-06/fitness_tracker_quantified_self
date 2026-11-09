@@ -3,6 +3,7 @@
 Classifying barbell exercises from wrist-worn accelerometer and gyroscope data, using a complete machine learning pipeline and a live web demo.
 
 **Live demo:** https://fitness-tracker-barabell-exercise-detection.streamlit.app/
+**Vedio Walkthrough** https://drive.google.com/file/d/15WlBjVsQnMPcJ0yvVB46N-QN4uyD6ef6/view?usp=drive_link
 
 ## Overview
 
